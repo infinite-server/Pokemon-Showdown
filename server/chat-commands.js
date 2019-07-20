@@ -552,6 +552,7 @@ const commands = {
 		if (!this.runBroadcast()) return;
 		this.sendReplyBox('<center><a href="https://picosong.com/wBqPh/"> <img src="http://167.114.97.182:9481/TCs/frost.gif"/> </a><br><font size="3"><b><i><font color="blue">Frost</i><br></font><b><blink>ZC-6 S ver.</font></blink></b><br><font color="585858"><i>You can hear those car squealing around the corners right? Trying desperately to catch up to each other pushing the limits and that doesn\'t get you worked up at all?</i></center>')
 	},
+	eDonger: 'eliterespawn',
 	er: 'eliterespawn',
 	eliterespawn: function (target, room, user) {
 		if (!this.runBroadcast()) return;
